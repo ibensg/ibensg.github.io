@@ -5,6 +5,8 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
+  font-family: "Amatic sc";
+  font-size: 30px;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -17,6 +19,7 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+font-size: 50px;
 
   &,
   &:visited {
@@ -227,7 +230,8 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
-
+  font-size: 16px;
+  font-family: "American Typewriter";
   h2 {
     @include relative-font-size(2);
 

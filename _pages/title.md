@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-permalink: /about/
+title: iben is cooolio
+permalink: /about/extra/
 ---
-<table>
+<table style="border-style:none">
 <tr>
 <td style="width:80%">
-Hi, I am Iben. 
-I share my artwork here.
+Yooyoyoyooooo
 </td>
 <td style="text-align: right; vertical-align:top">
-<img src="/img/IMG_0070.jpg" alt="Iben photo" width="120" height="120">
+<img src="/img/fungi.jpg" alt="Iben photo" width="120" height="120">
 </td>
 </tr>
 </table>
